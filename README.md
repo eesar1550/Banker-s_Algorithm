@@ -35,9 +35,13 @@ The Banker's Algorithm is a resource allocation and deadlock avoidance algorithm
 
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/dea33288-61d1-4434-93e8-f42119288f89)
+
 • Safe Sequence
+
 ![image](https://github.com/user-attachments/assets/860b69d0-50c4-4308-9e23-f2985034ec8a)
-• Unafe Sequence
+
+• Unsafe Sequence
+
 ![image](https://github.com/user-attachments/assets/bf18af18-c584-4e59-a911-587a1779529a)
 
 ## 📄 License
