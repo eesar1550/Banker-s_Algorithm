@@ -28,9 +28,13 @@ The Banker's Algorithm is a resource allocation and deadlock avoidance algorithm
 
 ## Tools & Technologies
 •Language: C#
+
 •Platform: .NET Framework
+
 •IDE: Microsoft Visual Studio 2022
+
 •Framework Type: Windows Forms Application
+
 •OS Compatibility: Windows OS (Windows 10 or above)
 
 ## Screenshots
